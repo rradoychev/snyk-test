@@ -19,5 +19,8 @@
   "devDependencies": {
     "lodash": "^4.17.11",
     "webpack": "^3.5.5"
+  },
+  "dependencies": {
+    "kind-of": "^3.2.1"
   }
 }
