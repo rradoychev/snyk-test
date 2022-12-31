@@ -18,7 +18,7 @@
   "homepage": "https://github.com/rradoychev/snyk-test#readme",
   "devDependencies": {
     "lodash": "^4.17.11",
-    "webpack": "^3.5.5"
+    "webpack": "^5.75.0"
   },
   "dependencies": {
     "kind-of": "^3.2.1"
